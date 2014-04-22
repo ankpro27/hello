@@ -1,3 +1,3 @@
 <?php
- echo "Hello this is Brar";
+ echo "Hello this is Testing";
 ?>
