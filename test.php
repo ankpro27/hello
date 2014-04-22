@@ -1,3 +1,3 @@
 <?php
- echo "Hello this is Testing";
+ echo "Hello this is Testing repository using github.";
 ?>
