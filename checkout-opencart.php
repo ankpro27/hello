@@ -100,13 +100,7 @@ $( window ).load(function() {
 			
 			$('#payment-address .checkout-content').html(html);
 				
-			//$('#checkout .checkout-content').slideUp('slow');
-				
-			//$('#payment-address .checkout-content').slideDown('slow');
-				
-			//$('.checkout-heading a').remove();
-				
-			//$('#checkout .checkout-heading').append('<a><?php echo $text_modify; ?></a>');
+			
 		},
 		error: function(xhr, ajaxOptions, thrownError) {
 			//alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
